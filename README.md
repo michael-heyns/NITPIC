@@ -38,12 +38,12 @@ NITPIC/
 
 
 NITPIC
-    src              source files
-    bin              NITPIC.exe
-    docs             screenshot from a microchip manual
-    archive          source files which requires a DALLAS 1-Wire ID chip on any COM port
-License
-README.md
+..../src______________source files
+..../bin______________NITPIC.exe
+..../docs_____________screenshot from a microchip manual
+..../archive__________source files which requires a DALLAS 1-Wire ID chip on any COM port
+....License
+....README.md
 
 ## Request
 
