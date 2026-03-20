@@ -25,15 +25,15 @@ Historical artifact. Not maintained. Shared for preservation.
 
 NITPIC/
 
-src/ Source files
+   src/                 Source files
 
-bin/ NITPIC.EXE (runs on Windows 11)
+   bin/                 NITPIC.EXE (runs on Windows 11)
 
-docs/ Microchip manual screenshot (1996)
+   docs/                Microchip manual screenshot (1996)
 
-LICENSE MIT License
+   LICENSE              MIT License
 
-README.md
+   README.md
 
 
 
