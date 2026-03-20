@@ -1,4 +1,4 @@
-# NITPIC
+````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````# NITPIC
 An archive of the original NITPIC commercial compiler from the 90s
 
 ## History
@@ -22,12 +22,28 @@ Historical artifact. Not maintained. Shared for preservation.
 
 ## Files
 
+
 NITPIC/
-+-- src/ Source files
-+-- bin/ NITPIC.EXE (runs on Windows 11)
-+-- docs/ Microchip manual screenshot (1996)
-+-- LICENSE MIT License
-+-- README.md
+
+src/ Source files
+
+bin/ NITPIC.EXE (runs on Windows 11)
+
+docs/ Microchip manual screenshot (1996)
+
+LICENSE MIT License
+
+README.md
+
+
+
+NITPIC
+    src              source files
+    bin              NITPIC.exe
+    docs             screenshot from a microchip manual
+    archive          source files which requires a DALLAS 1-Wire ID chip on any COM port
+License
+README.md
 
 ## Request
 
@@ -59,3 +75,4 @@ SOFTWARE.
 
 
 
+    `   
