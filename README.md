@@ -22,13 +22,12 @@ Historical artifact. Not maintained. Shared for preservation.
 
 ## Files
 
-NITPIC
-    src              source files
-    bin              NITPIC.exe
-    docs             screenshot from a microchip manual
-    archive          source files which requires a DALLAS 1-Wire ID chip on any COM port
-License
-README.md
+NITPIC/
++-- src/ Source files
++-- bin/ NITPIC.EXE (runs on Windows 11)
++-- docs/ Microchip manual screenshot (1996)
++-- LICENSE MIT License
++-- README.md
 
 ## Request
 
